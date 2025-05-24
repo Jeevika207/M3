@@ -51,7 +51,8 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4e2e6cc8-68c8-40d3-91db-559f44a5789b)
+![image](https://github.com/user-attachments/assets/d771cbe6-670c-4f0e-a04a-415005b15da4)
+
 
 
 
@@ -104,7 +105,8 @@ int main() {
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/f7d6f248-427a-446b-86d1-20b04e5c5ed9)
+![image](https://github.com/user-attachments/assets/e670b731-3512-4e80-9c31-6db775f8bf75)
+
 
 
 
@@ -153,7 +155,8 @@ int main() {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/f2baa62a-cec0-4709-8326-1c9d9e24f335)
+![image](https://github.com/user-attachments/assets/4856f903-6e75-4545-9d9f-2d4a7aca0132)
+
 
 
 
@@ -209,7 +212,8 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/c0438815-5ed9-4798-95e4-6a9e8a5ea10f)
+![image](https://github.com/user-attachments/assets/e7c077f5-2439-4be3-b32d-401c71b1b133)
+
 
 
 
@@ -271,7 +275,8 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d01eec0b-5aca-4a84-85e0-7d709704aa01)
+![image](https://github.com/user-attachments/assets/94c3d6b4-3dcd-4e6f-852d-c617ee74c333)
+
 
  
 
